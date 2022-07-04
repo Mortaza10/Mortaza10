@@ -33,5 +33,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mortaza10&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Mortaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortaza10&show_icons=true&theme=radical&hide_border=true&card_width=1200)
+![Mortaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortaza10&show_icons=true&theme=neon-dark&hide_border=true&card_width=1200)
 
