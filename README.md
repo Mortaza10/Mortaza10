@@ -28,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I thinking about our world. 
 
 - :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mortaza_abbasi8/)
-- ---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
