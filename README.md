@@ -48,9 +48,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
----
+- ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mortaza10&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width="50%")](https://git.io/streak-stats)
-![Mortaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortaza10&show_icons=true&theme=radical&card_width="50%")
+![Mortaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortaza10&show_icons=true&theme=radical&card_width="49%")
 
