@@ -37,8 +37,8 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mortaza10&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width="49%")](https://git.io/streak-stats)
 ![Mortaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortaza10&show_icons=true&theme=radical&hide_border=true&card_width="49%")
 <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=mohsen-001&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Mortaza10&theme=radical&custom_title=Mortaza's+GitHub+Stats&hide_border=true&show_icons=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsen-001&theme=onedark&hide_border=true"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mortaza10&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
