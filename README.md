@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsen-001&label=Profile%20views&color=0e75b6&style=flat" alt="mohsen-001" /> </p>
+
 ### Hi there, I am Mortaza 👋 
 
 ### :man_technologist: About Me :
@@ -10,6 +10,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - :zap: In my free time, I thinking about our world. 
 
 - :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mortazaabbasi.8/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsen-001&label=Profile%20views&color=0e75b6&style=flat" alt="mohsen-001" /> </p>
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
