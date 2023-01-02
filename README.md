@@ -37,6 +37,5 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### :fire: My Stats :
    <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&show_icons=true&username=Mortaza10&theme=radical&custom_title=Mortaza's+GitHub+Stats&hide_border=true"/>
+        <img width="100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&show_icons=true&username=Mortaza10&theme=radical&custom_title=Mortaza's+GitHub+Stats&hide_border=true"/>
     </a>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mortaza10&theme=radical&hide_border=true&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D&width="49%")](https://git.io/streak-stats)
