@@ -34,7 +34,4 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ---
 
-### :fire: My Stats :
-   <a href="https://github-readme-stats.vercel.app">
-        <img width="100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&show_icons=true&username=Mortaza10&theme=radical&custom_title=Mortaza's+GitHub+Stats&hide_border=true"/>
-    </a>
+
