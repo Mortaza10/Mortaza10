@@ -1,5 +1,5 @@
 
-### Hi there, I am Mortaza 👋 
+### Hi , I am Mortaza 👋 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mortaza10&label=Profile%20views&color=0e75b6&style=flat" alt="Mortaza10" /> </p>
 
 ### :man_technologist: About Me :
