@@ -8,7 +8,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I thinking about our world. 
+- :zap: Problem Solver. 
 
 - ---
 
