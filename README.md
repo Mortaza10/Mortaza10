@@ -30,15 +30,16 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
   </div>
+  
+  - ---
+  
   <div>
      <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=hashmat4&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hashmat4&theme=onedark&hide_border=true"/>
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mortaza10&theme=highcontrast&hide_border=true&border_radius=4.7&short_numbers=true" alt="GitHub Streak" /></a>
   </div>
+- ---
     Made with 🤍 by Mortaza Abbasi
----
 
 
