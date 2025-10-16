@@ -37,8 +37,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
        <a href="https://github-readme-stats.vercel.app">
         <img alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=mortaza10&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mortaza10&theme=onedark&hide_border=true&border_radius=4.7&short_numbers=true" alt="GitHub Streak" /></a>
-    
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mortaza10&border_radius=4.7" alt="GitHub Streak" /></a>
   </div>
   
   - ---
